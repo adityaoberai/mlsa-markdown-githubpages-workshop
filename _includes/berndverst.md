@@ -1,0 +1,1 @@
+| Bernd Verst | [berndverst](github.com/berndverst) | Love meetings passionate students from around the world |
