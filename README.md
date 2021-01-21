@@ -11,5 +11,6 @@ For this part of the session, please visit the **_includes** folder in the repos
 ## Learning Resources
 
 * [Microsoft Learn Path](https://docs.microsoft.com/en-us/learn/paths/collaborate-markdown-github-pages/)
+* [Jekyll Docs](https://jekyllrb.com/docs/)
 
 *Do feel free to add any others if you'd like to*
