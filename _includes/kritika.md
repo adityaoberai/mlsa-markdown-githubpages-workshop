@@ -1,1 +1,1 @@
-| Kritika Parmar | [kritika](github.com/kritikaparmar-programmer) | Love to connect with great developers and help the community |
+| Kritika Parmar | [kritikaparmar-programmer](https://github.com/kritikaparmar-programmer) | Love to connect with great developers and help the community |
