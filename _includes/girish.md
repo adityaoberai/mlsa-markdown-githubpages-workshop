@@ -1,1 +1,1 @@
-| Girish Mahabir | [GirishMahabir](github.com/GirishMahabir) | Community, Learn, Share and Grow |
+| Girish Mahabir | [GirishMahabir](https://github.com/GirishMahabir) | Community, Learn, Share and Grow |
