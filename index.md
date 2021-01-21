@@ -12,3 +12,4 @@
 {% include girish.md %}
 {% include adre9.md %}
 {% include Azmi-Coban.md %}
+{% include RuchaYagnik.md %}
