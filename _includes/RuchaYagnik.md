@@ -1,0 +1,1 @@
+| Rucha Yagnik | [RuchaYagnik](https://github.com/RuchaYagnik) | I joined the program in August 2020, the fun part is when I couldn't even step out my home in lockdown, surprisingly I made amaxing friends all across the globe. Thanks to the Microsoft Learn Student Ambassador Program, that we can potentially create a difference altogether! |
