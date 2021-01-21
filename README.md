@@ -1,6 +1,4 @@
-# mlsa-markdown-githubpages-workshop
-
-Website for the "Collaborate with others with Markdown and GitHub Pages" workshop
+# Repo for the "Collaborate with others with Markdown and GitHub Pages" workshop
 
 ## Thank you so much for following along the session so far!
 
