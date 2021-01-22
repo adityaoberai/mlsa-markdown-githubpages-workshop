@@ -1,1 +1,1 @@
-| Vincent Villafuerte | [vinzvinci](https://github.com/vinzvinci) | Thank you for all your hard work on this, you're the best!
+| Vincent Villafuerte | [vinzvinci](https://github.com/vinzvinci) | Microsoft Learn Student Ambassadors Program inspired me to be a better person. I love everything in the program, I am very grateful for being part of it.
