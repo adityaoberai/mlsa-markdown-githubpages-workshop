@@ -4,7 +4,7 @@
 
 As a little token of my appreciation, I want to give every Student Ambassador who joined a little shoutout
 
-For this part of the session, please visit the **_includes** folder in the repository and find the **template** given there. Make sure to create a copy the file, rename it in the format *Your_GitHub_ID.md*, and fill in the details as per your wish.
+For this part of the session, please visit the **_includes** folder in the repository and find the [`template`](./_includes/template.md) given there. Make sure to create a copy the file, rename it in the format *Your_GitHub_ID.md*, and fill in the details as per your wish.
 
 ---
 
